@@ -2,7 +2,7 @@
 
 == What is reqstool?
 
-Reqstool is an open-source toolchain for managing software requirements with full traceability to implementation and test results.
+reqstool is an open-source toolchain for managing software requirements with full traceability to implementation and test results.
 
 * **Define** requirements in YAML files with references between systems and microservices
 * **Annotate** code to link implementations and tests to requirements (Java, Python, TypeScript)
@@ -27,7 +27,7 @@ graph LR
 
 == Ecosystem
 
-Reqstool provides components for multiple languages and build systems:
+reqstool provides components for multiple languages and build systems:
 
 [cols="1,2,1"]
 |===
