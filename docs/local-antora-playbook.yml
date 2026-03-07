@@ -14,37 +14,37 @@ content:
     - url: ~+
       branches: HEAD
       start_path: docs
-    - url: ../reqstool-client
+    - url: ../../reqstool-client
       branches: HEAD
       start_path: docs
-    - url: ../reqstool-demo
+    - url: ../../reqstool-demo
       branches: HEAD
       start_path: docs
-    - url: ../reqstool-java-annotations
+    - url: ../../reqstool-java-annotations
       branches: HEAD
       start_path: docs
-    - url: ../reqstool-java-maven-plugin
+    - url: ../../reqstool-java-maven-plugin
       branches: HEAD
       start_path: docs
-    - url: ../reqstool-java-gradle-plugin
+    - url: ../../reqstool-java-gradle-plugin
       branches: HEAD
       start_path: docs
-    - url: ../reqstool-python-decorators
+    - url: ../../reqstool-python-decorators
       branches: HEAD
       start_path: docs
-    - url: ../reqstool-python-poetry-plugin
+    - url: ../../reqstool-python-poetry-plugin
       branches: HEAD
       start_path: docs
-    - url: ../reqstool-python-hatch-plugin
+    - url: ../../reqstool-python-hatch-plugin
       branches: HEAD
       start_path: docs
-    - url: ../reqstool-vscode-extension
+    - url: ../../reqstool-vscode-extension
       branches: HEAD
       start_path: docs
-    - url: ../reqstool-typescript-tags
+    - url: ../../reqstool-typescript-tags
       branches: HEAD
       start_path: docs
-    - url: ../reqstool-ai
+    - url: ../../reqstool-ai
       branches: HEAD
       start_path: docs
 
