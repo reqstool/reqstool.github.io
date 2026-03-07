@@ -26,7 +26,7 @@
 
 | xref:reqstool-java-maven-plugin::index.adoc[Maven Plugin]
 | Maven build plugin for assembling reqstool ZIP artifacts
-| Java 21+
+| Java 8+
 | https://central.sonatype.com/search?q=io.github.reqstool[Maven Central]
 
 | xref:reqstool-java-gradle-plugin::index.adoc[Gradle Plugin]

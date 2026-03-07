@@ -8,6 +8,7 @@ Reqstool is an open-source toolchain for managing software requirements with ful
 * **Annotate** code to link implementations and tests to requirements (Java, Python, TypeScript)
 * **Verify** that every requirement is implemented, tested, and passing
 * **Report** with generated AsciiDoc/PDF reports for auditors and stakeholders
+* **Export** data in JSON format for custom tooling and integrations
 
 == How it works
 
