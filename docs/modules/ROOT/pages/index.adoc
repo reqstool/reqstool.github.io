@@ -1,4 +1,4 @@
-= Requirements Tool
+= reqstool
 
 == What is reqstool?
 
@@ -15,8 +15,8 @@ reqstool is an open-source toolchain for managing software requirements with ful
 [kroki,mermaid]
 ....
 graph LR
-    A["Requirements\n(YAML)"] --> B["Annotations\n(@Requirements, @SVCs)"]
-    B --> C["Test Results\n(JUnit XML)"]
+    A["Requirements (YAML)"] --> B["Annotations (@Requirements, @SVCs)"]
+    B --> C["Test Results (JUnit XML)"]
     A --> D["reqstool"]
     B --> D
     C --> D
