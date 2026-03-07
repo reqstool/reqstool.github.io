@@ -64,6 +64,6 @@ asciidoc:
 
 ui:
   bundle:
-    url: /Users/r04755/dev/clones/jimisola/reqstool/reqstool-docs/.cache/antora/ui-bundle.zip
-    snapshot: false
-  supplemental_files: supplemental-ui
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+  supplemental_files: ../supplemental-ui
