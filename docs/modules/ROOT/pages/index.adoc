@@ -15,14 +15,12 @@ reqstool is an open-source toolchain for managing software requirements with ful
 [kroki,mermaid]
 ....
 graph LR
-    A["Requirements (YAML)"] --> B["Annotations (@Requirements, @SVCs)"]
-    B --> C["Test Results (JUnit XML)"]
-    A --> D["reqstool"]
-    B --> D
-    C --> D
-    D --> E["Status Report"]
-    D --> F["AsciiDoc Report"]
-    D --> G["JSON Export"]
+    A["Requirements (YAML)"] --> D["reqstool"]
+    B["Annotations (@Requirements, @SVCs)"] --> D
+    C["Test Results (JUnit XML)"] --> D
+    D --> E["Status (console)"]
+    D --> F["Report (AsciiDoc, Markdown)"]
+    D --> G["Export (JSON)"]
 ....
 
 == Ecosystem
