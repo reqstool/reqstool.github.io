@@ -37,9 +37,6 @@ content:
     - url: https://github.com/reqstool/reqstool-python-hatch-plugin
       branches: HEAD
       start_path: docs
-    - url: https://github.com/reqstool/reqstool-vscode-extension
-      branches: HEAD
-      start_path: docs
     - url: https://github.com/reqstool/reqstool-typescript-tags
       branches: HEAD
       start_path: docs

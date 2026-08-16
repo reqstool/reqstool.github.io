@@ -59,7 +59,7 @@ reqstool provides components for multiple languages and build systems:
 | Poetry build plugin for Python projects
 | Python
 
-| xref:reqstool-vscode-extension::index.adoc[VS Code Extension]
+| https://github.com/reqstool/reqstool-vscode[VS Code Extension]
 | Hover info and file watching for VS Code
 | TypeScript
 
