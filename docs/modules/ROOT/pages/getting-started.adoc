@@ -29,7 +29,7 @@ See the xref:reqstool-demo::index.adoc[Demo Project] for a complete working exam
 
 == VS Code integration
 
-Install the xref:reqstool-vscode-extension::index.adoc[VS Code Extension] from the marketplace to get hover information for requirements and SVCs directly in your editor.
+Install the https://github.com/reqstool/reqstool-vscode[VS Code Extension] from the marketplace to get hover information for requirements and SVCs directly in your editor.
 
 == AI-assisted workflow
 

@@ -78,7 +78,7 @@
 |===
 | Component | Description | Language
 
-| xref:reqstool-vscode-extension::index.adoc[VS Code Extension]
+| https://github.com/reqstool/reqstool-vscode[VS Code Extension]
 | Hover information and file watching for reqstool in VS Code
 | TypeScript
 
