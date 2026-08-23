@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   publish:
-    uses: reqstool/.github/.github/workflows/common-publish-to-github-pages.yml@main
+    uses: reqstool/.github/.github/workflows/common-publish-to-github-pages.yml@ef815eae0bca7160cdc714126cac73f76d638b39 # 1.0.0
     permissions:
       contents: read
       pages: write
