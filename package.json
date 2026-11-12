@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "antora": "3.2.2",
-    "asciidoctor-kroki": "0.18.1"
+    "asciidoctor-kroki": "0.18.2"
   }
 }
