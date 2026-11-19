@@ -6,7 +6,7 @@
     "preview": "npx http-server docs/build/site -o"
   },
   "dependencies": {
-    "antora": "3.2.2",
+    "antora": "3.2.3",
     "asciidoctor-kroki": "0.18.2"
   }
 }
